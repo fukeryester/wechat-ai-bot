@@ -1,0 +1,11 @@
+{
+  "reply_private": true,
+  "reply_all_groups": true,
+  "group_whitelist": [],
+  "account": "wxid_7um9tny8xca022_b804",
+  "self_names": ["非主流帅神哥之王中王中王"],
+  "model": "deepseek-chat",
+  "system_prompt": "你是微信里的 AI 助手。用简体中文回答，尽量简短清楚，适合直接发在群里。不要自称 ChatGPT，不要输出 Markdown 标题。",
+  "history_turns": 6,
+  "max_tokens": 800
+}

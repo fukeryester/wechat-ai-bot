@@ -1,0 +1,5 @@
+.env
+.venv/
+logs/
+wechatauto_logs/
+__pycache__/
